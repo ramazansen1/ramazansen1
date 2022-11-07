@@ -1,14 +1,12 @@
-### Hi there 👋, I'm Ramazan Şen
-#### Software Developer
+# Hi there 👋, I'm Ramazan Şen
+### Software Developer
 
 I'm Ramazan from Turkey, and I'm currently learning Python and I really enjoy learning langueages
 
 ## Skills and Experience
-* tutorials=../scippneutron/docs/tutorials  # adjust as necessary
-python "$tutorials"/strip-solutions.py "$tutorials"/[1-9]* --output-dir=notebooks/6_scipp
-cp "$tutorials"/[1-9]* solutions/6_scipp
+* 🖥️ HTML, CSS, PYTHON
 
-Skills: PYTHON / HTML / CSS
+
 
 
 
