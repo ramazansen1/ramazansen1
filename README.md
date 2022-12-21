@@ -4,7 +4,7 @@
 I'm Ramazan from Turkey, and I'm currently learning Python and I really enjoy learning langueages
 
 ## Skills and Experience
-* 🖥️ HTML, CSS, PYTHON
+* 🖥️ HTML, CSS, BOOTSTRAP, PYTHON
 
 
 
