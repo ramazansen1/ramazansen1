@@ -1,10 +1,10 @@
 # Hi there 👋, I'm Ramazan Şen
-### Software Developer
+### Front End Developer | React Developer | Mechanical Engineer
 
-I'm Ramazan from Turkey, and I'm currently learning Python and I really enjoy learning langueages
+After working in the field of mechanical engineering for 3 years, I continue my career in software development, which I always dreamed of. After coding with Python for a while, I discovered my own interest, and now I am actively interested in React as a Frontend Developer. I can describe myself as a result-oriented and determined person who gives importance to development day by day in this field.
 
 ## Skills and Experience
-* 🖥️ HTML, CSS, BOOTSTRAP, PYTHON
+* 🖥️ HTML, HTML5, CSS, CSS3, SCSS, BOOTSTRAP, TAILWIND, JAVASCRIPT, PYTHON 
 
 
 
