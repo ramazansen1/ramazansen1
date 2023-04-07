@@ -37,7 +37,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </a>
-  <a href="https://twitter.com/ramaznsen" target="_blank">
+  <a href="https://twitter.com/ramaznsen" target="">
 <img src=https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Framaznsen alt=twitter style="margin-bottom: 5px;" />
 </a>  
 </div>
