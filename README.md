@@ -24,7 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="30" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" height="30" width="30" alt="codepen logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" width="30" alt="slack logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" width="30" alt="photoshop logo"  />
 
 </div>
 
@@ -34,12 +33,12 @@
 <a href="https://linkedin.com/in/ramazansen" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-  <a href="https://www.instagram.com/ramaznsen" target="_blank">
+  <a href="(https://instagram.com/ramaznsen?igshid=ZDdkNTZiNTM=)" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </a>
   <a href="https://twitter.com/ramaznsen" target="_blank">
-<img src=https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Framaznsen alt=twitter style="margin-bottom: 10px;" />
+<img src=https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Framaznsen alt=twitter style="margin-bottom: 5px;" />
 </a>  
 </div>
 
