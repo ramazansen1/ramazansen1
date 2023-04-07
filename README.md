@@ -6,7 +6,7 @@
 <p align="left"> After working in the field of mechanical engineering for 3 years, I continue my career in software development, which I always dreamed of. After coding with Python for a while, I discovered my own interest, and now I am actively interested in React as a Frontend Developer. I can describe myself as a result-oriented and determined person who gives importance to development day by day in this field.
 </p>
 
-<p align="left">Skills and Experience</p>
+<p align="center">Skills and Experience</p>
   
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="30" alt="html5 logo"  />
@@ -29,7 +29,7 @@
 </div>
 
 ###
-<p align="left">Socials</p>
+<p align="center">Socials</p>
 <div align="center">
 <a href="https://linkedin.com/in/ramazansen" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
