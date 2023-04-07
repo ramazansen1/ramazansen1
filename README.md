@@ -39,7 +39,7 @@
 </a>  
 </a>
   <a href="https://twitter.com/ramaznsen" target="_blank">
-<img src=https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Framaznsen alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Framaznsen alt=twitter style="margin-bottom: 10px;" />
 </a>  
 </div>
 
