@@ -3,7 +3,8 @@
 
 ###
 
-<p align="left"> After working in the field of mechanical engineering for 3 years, I continue my career in software development, which I always dreamed of. After coding with Python for a while, I discovered my own interest, and now I am actively interested in React as a Frontend Developer. I can describe myself as a result-oriented and determined person who gives importance to development day by day in this field.
+<p align="left"> While working as a mechanical engineer, I continuously strive to advance myself in the field of software development, which has always been my dream. I achieve this through online courses, communities, and personal research. During this process, I actively participated in e-commerce projects, taking on active roles in developing personal and corporate websites and building projects by communicating with APIs. I effectively utilize React and Redux technologies. My personal goals include learning TypeScript and React Native. I possess a creative, analytical mindset and a results-oriented approach. I am adaptable to teamwork and have effective communication skills.
+
 </p>
 
 <p align="center">Skills and Experience</p>
