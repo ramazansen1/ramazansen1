@@ -3,7 +3,15 @@
 
 ###
 
-<p align="left"> While working as a mechanical engineer, I continuously strive to advance myself in the field of software development, which has always been my dream. I achieve this through online courses, communities, and personal research. During this process, I actively participated in e-commerce projects, taking on active roles in developing personal and corporate websites and building projects by communicating with APIs. I effectively utilize React and Redux technologies. My personal goals include learning TypeScript and React Native. I possess a creative, analytical mindset and a results-oriented approach. I am adaptable to teamwork and have effective communication skills.
+<p align="left"> Hello,
+
+While working as a mechanical engineer for many years, I have continuously developed myself in the field of software development. I expand my experience through online courses, communities, and personal research.
+
+Actively participating in e-commerce projects, I have gained significant experience in developing personal and corporate websites. Additionally, I have been involved in various projects by effectively communicating with APIs. My goal is to create user-friendly and functional interfaces using React and Redux technologies.
+
+Among my personal goals is learning TypeScript and React Native. I possess a creative, analytical mindset, and a results-oriented approach. I can collaborate effectively in team settings and bring forth my strong communication skills to projects.
+
+If you have any questions or collaboration opportunities, please don't hesitate to contact me. Have a great day!
 
 </p>
 
